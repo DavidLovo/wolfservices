@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Microsoft.Data;
+using Microsoft.Data.SqlClient;
 
 namespace WS.InfraStructure.DBConexion
 {
@@ -13,6 +15,10 @@ namespace WS.InfraStructure.DBConexion
             _connectionString = connectionString;
         }
 
+        public SqlConnection CreateConnection()
+        {
+            return new SqlConnection(_connectionString);
+        }
        
     }
 }

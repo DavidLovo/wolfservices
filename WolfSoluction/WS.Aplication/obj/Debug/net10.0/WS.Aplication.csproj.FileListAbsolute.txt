@@ -13,3 +13,4 @@ C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Aplication
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Aplication\obj\Debug\net10.0\refint\WS.Aplication.dll
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Aplication\obj\Debug\net10.0\WS.Aplication.pdb
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Aplication\obj\Debug\net10.0\ref\WS.Aplication.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Aplication\obj\Debug\net10.0\WS.Aplication.sourcelink.json

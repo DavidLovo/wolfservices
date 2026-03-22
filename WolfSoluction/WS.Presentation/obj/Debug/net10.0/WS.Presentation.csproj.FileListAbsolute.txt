@@ -41,3 +41,4 @@ C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Presentati
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Presentation\obj\Debug\net10.0\WS.Presentation.pdb
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Presentation\obj\Debug\net10.0\WS.Presentation.genruntimeconfig.cache
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Presentation\obj\Debug\net10.0\ref\WS.Presentation.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Presentation\obj\Debug\net10.0\WS.Presentation.sourcelink.json

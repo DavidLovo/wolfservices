@@ -4,7 +4,10 @@ using System.Text;
 
 namespace WS.Domain.DTOs
 {
-    internal class EstadoDTOs
+    public class EstadoDTOs
     {
+        public int IdEstado { get; set; }
+        public string TipoEstado { get; set; }
+        public DateTime FechaIngreso { get; set; }
     }
 }

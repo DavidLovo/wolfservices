@@ -15,3 +15,4 @@ C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.InfraStruc
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.InfraStructure\obj\Debug\net10.0\refint\WS.InfraStructure.dll
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.InfraStructure\obj\Debug\net10.0\WS.InfraStructure.pdb
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.InfraStructure\obj\Debug\net10.0\ref\WS.InfraStructure.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.InfraStructure\obj\Debug\net10.0\WS.InfraStructure.sourcelink.json

@@ -9,3 +9,4 @@ C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\refint\WS.Domain.dll
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.pdb
 C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\ref\WS.Domain.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.sourcelink.json

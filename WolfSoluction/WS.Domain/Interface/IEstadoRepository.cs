@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using WS.Domain.Entities;
 
 namespace WS.Domain.Interface
 {
-    internal interface IEstadoRepository
+    public interface IEstadoRepository
     {
+        Task<IEnumerable<Estado>> ListarEstadoAsync();
+        Task NuevoEstadoAsync(Estado estado);
+        Task EditarEstadoAsync(Estado estado);
+      
     }
 }

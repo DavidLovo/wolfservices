@@ -4,7 +4,10 @@ using System.Text;
 
 namespace WS.Domain.Entities
 {
-    internal class Estado
+    public class Estado
     {
+        public int IdEstado { get; set; }
+        public string TipoEstado { get; set; }
+        public DateTime FechaIngreso { get; set; }
     }
 }

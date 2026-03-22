@@ -4,7 +4,10 @@ using System.Text;
 
 namespace WS.Domain.Entities
 {
-    internal class Roll
+    public class Roll
     {
+        public int IdRol { get; set; }
+        public string Nombre { get; set; }
+        public DateTime FechaIngreso { get; set; }
     }
 }
