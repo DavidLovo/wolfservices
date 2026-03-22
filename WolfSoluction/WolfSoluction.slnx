@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WS.Aplication/WS.Aplication.csproj" Id="4de4e76c-2bec-4330-a7d6-d037b180f30a" />
+  <Project Path="WS.Domain/WS.Domain.csproj" Id="bab7419d-3b23-4cb1-aa2f-018d5ea9b47d" />
+  <Project Path="WS.InfraStructure/WS.InfraStructure.csproj" Id="53d9dbc7-0009-4157-a81a-828431c000cc" />
+  <Project Path="WS.Presentation/WS.Presentation.csproj" Id="7e16df0a-ba5f-437e-92be-86c4e1aaf1bd" />
+</Solution>

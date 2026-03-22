@@ -1,0 +1,11 @@
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.AssemblyInfoInputs.cache
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.AssemblyInfo.cs
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\bin\Debug\net10.0\WS.Domain.deps.json
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\bin\Debug\net10.0\WS.Domain.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\bin\Debug\net10.0\WS.Domain.pdb
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\refint\WS.Domain.dll
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\WS.Domain.pdb
+C:\Users\liaml\Desktop\proyecto para negocio\Backend\WolfSoluction\WS.Domain\obj\Debug\net10.0\ref\WS.Domain.dll
